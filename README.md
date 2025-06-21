@@ -41,7 +41,7 @@ This project uses a neural network built with TensorFlow and Keras to classify t
  You can improve this further with hyperparameter tuning, class balancing, and regularization.
 ---
 
-## Inpupt Format (2D array)
+## Input Data Format (2D array)
 [
  'radius_mean', 'texture_mean', 'perimeter_mean', 'area_mean',
  'smoothness_mean', 'compactness_mean', 'concavity_mean',
